@@ -109,10 +109,10 @@ hr {
   text-underline-position: under;
 }
 .a {
-  color: #ff004f;
+  color: #ff0000;
   margin-top: 13px;
   margin-bottom: -1.5rem;
 }
 h2:hover {
-  color: #ff004f;
+  color: #0084ff;
 }
